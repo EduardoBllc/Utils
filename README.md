@@ -1,2 +1,2 @@
 # Utils
-Utilitários que uso em meus projetos
+Utilitários que uso em meus projetos em Java
